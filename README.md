@@ -1,7 +1,4 @@
-# Mohit_Sakhwal
-Hello world, this is my profile 
-```markdown
-<div align="center">
+ <div align="center">
   <h1>Hi there, I'm Mohit Sakhwal 👋</h1>
   <h3>Machine Learning Engineer | Data Scientist</h3>
 </div>
@@ -65,4 +62,3 @@ Designed an automated extractive and abstractive text summarization tool for lar
 <div align="left">
   <a href="mailto:mohitsakhwal990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
-```
