@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Mohit Sakhwal </h1>
+ <h1 align="center">Hi, I'm Mohit Sakhwal 👋</h1>
 
 <p align="center">
   <b>ML Engineer & Data Engineer</b> · Finance Background · End-to-End Pipeline Builder
@@ -74,12 +74,18 @@ Data Scientist & ML Engineer with a Finance background and hands-on experience b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skill Proficiency
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitSakhwal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSakhwal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+| Skill | Proficiency |
+|---|---|
+| Python | `█████████░` 90% |
+| Machine Learning (Scikit-learn, XGBoost) | `████████░░` 80% |
+| SQL & Data Engineering | `████████░░` 80% |
+| NLP & Transformers | `███████░░░` 70% |
+| Data Visualization (Power BI, Tableau) | `████████░░` 80% |
+| Spark & Snowflake | `██████░░░░` 60% |
+| MLOps / API Deployment (FastAPI) | `███████░░░` 70% |
+| Feature Engineering & EDA | `█████████░` 90% |
 
 ---
 
