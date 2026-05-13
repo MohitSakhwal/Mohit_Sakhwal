@@ -74,21 +74,6 @@ Data Scientist & ML Engineer with a Finance background and hands-on experience b
 
 ---
 
-## 📊 Skill Proficiency
-
-| Skill | Proficiency |
-|---|---|
-| Python | `█████████░` 90% |
-| Machine Learning (Scikit-learn, XGBoost) | `████████░░` 80% |
-| SQL & Data Engineering | `████████░░` 80% |
-| NLP & Transformers | `███████░░░` 70% |
-| Data Visualization (Power BI, Tableau) | `████████░░` 80% |
-| Spark & Snowflake | `██████░░░░` 60% |
-| MLOps / API Deployment (FastAPI) | `███████░░░` 70% |
-| Feature Engineering & EDA | `█████████░` 90% |
-
----
-
 ## 📜 Certifications
 
 - 🏅 **Advanced Data Science & Analytics Professional Certificate** — Ethans Tech, Pune (2026)
